@@ -1,7 +1,7 @@
 {
   "artists": [
     {"name": "The Beatles", "img": "img/the-beatles.jpg"},
-    {"name": "Arctic Monkeys", "img": "img/arctic-monkeys,jpg"},
+    {"name": "Arctic Monkeys", "img": "img/arctic-monkeys.jpg"},
     {"name": "Billie Eilish", "img": "img/billie-eilish.jpg"},
     {"name": "Chico Buarque", "img": "img/chico-buarque.jpg"},
     {"name": "Jorge Ben Jor", "img": "img/jorge-ben-jor.jpg"},
@@ -15,19 +15,19 @@
   ],
   "albums": [
     {"name": "Abbey Road", "artist": "The Beatles", "img": "img/abbey-road.jpg"},
-    {"name": "AM", "artist": "Arctic Monkeys", "img": "AM.jpg"},
-    {"name": "Favourite Worst Nightmare", "artist": "Arctic Monkeys", "img": "favourite-worst-nightmare.jpg"},
-    {"name": "Humbug", "artist": "Arctic Monkeys", "img": "humbug.jpg"},
-    {"name": "Let it Be", "artist": "The Beatles", "img": "let-it-be.jpg"},
-    {"name": "Revolver", "artist": "The Beatles", "img": "revolver.jpg"},
-    {"name": "Rubber Soul", "artist": "The Beatles", "img": "rubber-soul.jpg"},
-    {"name": "Sgt. Pepper's Lonely Hearts Club Ban", "artist": "The Beatles", "img": "sgt-peppers.jpg"},
-    {"name": "Suck it and See", "artist": "Arctic Monkeys", "img": "suck-it-and-see.jpg"},
-    {"name": "The Car", "artist": "Arctic Monkeys", "img": "the-car.jpg"},
-    {"name": "Tranquility Base Hotel & Casino", "artist": "Arctic Monkeys", "img": "tranquility-base-hotel-and-casino.jpg"},
-    {"name": "Whatever People Say I Am, That's What I'm Not", "artist": "Arctic Monkeys", "img": "whatever-people-say-i-am.jpg"},
-    {"name": "when no one's watchibg", "artist": "wilt", "img": "when-no-one's-watching.jpg"},
-    {"name": "White Album", "artist": "The Beatles", "img": "white-album.jpg"},
-    {"name": "you seem pretty sad for a girl so in love", "artist": "Olivia Rodrigo", "img": "you-seem-pretty-sad-for-a-girl-so-in-love.jpg"}
+    {"name": "AM", "artist": "Arctic Monkeys", "img": "img/AM.jpg"},
+    {"name": "Favourite Worst Nightmare", "artist": "Arctic Monkeys", "img": "img/favourite-worst-nightmare.jpg"},
+    {"name": "Humbug", "artist": "Arctic Monkeys", "img": "img/humbug.jpg"},
+    {"name": "Let it Be", "artist": "The Beatles", "img": "img/let-it-be.jpg"},
+    {"name": "Revolver", "artist": "The Beatles", "img": "img/revolver.jpg"},
+    {"name": "Rubber Soul", "artist": "The Beatles", "img": "img/rubber-soul.jpg"},
+    {"name": "Sgt. Pepper's Lonely Hearts Club Ban", "artist": "img/The Beatles", "img": "sgt-peppers.jpg"},
+    {"name": "Suck it and See", "artist": "Arctic Monkeys", "img": "img/suck-it-and-see.jpg"},
+    {"name": "The Car", "artist": "Arctic Monkeys", "img": "img/the-car.jpg"},
+    {"name": "Tranquility Base Hotel & Casino", "artist": "Arctic Monkeys", "img": "img/tranquility-base-hotel-and-casino.jpg"},
+    {"name": "Whatever People Say I Am, That's What I'm Not", "artist": "Arctic Monkeys", "img": "img/whatever-people-say-i-am.jpg"},
+    {"name": "when no one's watchibg", "artist": "wilt", "img": "img/when-no-one's-watching.jpg"},
+    {"name": "White Album", "artist": "The Beatles", "img": "img/white-album.jpg"},
+    {"name": "you seem pretty sad for a girl so in love", "artist": "Olivia Rodrigo", "img": "img/you-seem-pretty-sad-for-a-girl-so-in-love.jpg"}
   ]
 }

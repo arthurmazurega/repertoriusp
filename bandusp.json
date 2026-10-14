@@ -8,10 +8,11 @@
 ]},
     {"t": "The Chain", "a": "Fleetwood Mac", "al": "Rumours", "s": "Aprendendo",
     "p": [
-      {"n": "Velório", "i": "Guitarra"}
-      {"n": "Comp", "i": "Guitarra Base"}
-      {"n": "Kylo", "i": "Baixo"}
+      {"n": "Velório", "i": "Guitarra"},
+      {"n": "Comp", "i": "Guitarra Base"},
+      {"n": "Kylo", "i": "Baixo"},
       {"n": "Tigrinho", "i": "Bateria"}
-]}]
+]}
+]
 }
 
